@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"..\/tile\/orangetrees.png",
+ "imageheight":128,
+ "imagewidth":224,
+ "margin":0,
+ "name":"tree",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.7.2",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.6"
+}
