@@ -10,7 +10,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsiteAllowApi",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/yg.ventures"
                 }],
