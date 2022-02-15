@@ -10,7 +10,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openWebsiteAllowApi",
                  "type":"string",
                  "value":"https:\/\/yg.ventures"
                 }],
@@ -32,7 +32,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":4,
+ "nextlayerid":5,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
