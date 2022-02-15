@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"yg.ventures"
+                 "value":"https:\/\/yg.ventures"
                 }],
          "type":"tilelayer",
          "visible":true,
